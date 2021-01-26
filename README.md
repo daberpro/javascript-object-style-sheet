@@ -3,7 +3,7 @@
 clone that repo and write this on your terminal or console
 </p>
 
-Inline `code` has `back-ticks around` it.
+This project use `node js`
 
 
 ```javascript
