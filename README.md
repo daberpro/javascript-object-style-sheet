@@ -2,6 +2,7 @@
 <p>this project still development<br/>
 clone that repo and write this on your terminal or console
 </p>
-  ```javascript
-  npm i
-  ``` 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
